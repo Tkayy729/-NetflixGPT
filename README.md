@@ -1,8 +1,10 @@
 # Netflix gpt
 
-
 - create react app
 - configure tailwind css
+- set up routes
+- Header with the netflix logo
+
 
 # Features
 - Login/Sign up
