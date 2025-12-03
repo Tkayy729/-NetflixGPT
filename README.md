@@ -3,6 +3,7 @@
 
 - create react app
 - configure tailwind css
+- created sign page 
 
 # Features
 - Login/Sign up
